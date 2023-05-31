@@ -1,3 +1,4 @@
 # Spam_Ham_Filter
 
-Work in Progress.............
+Approach1: Bag of Words
+Approach2: TF-IDF
